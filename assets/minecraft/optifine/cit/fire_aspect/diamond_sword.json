@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/diamond_sword",
+  "textures": {
+	"fire": "item/sword/fire1"
+	}
+}

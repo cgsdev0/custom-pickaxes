@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/wooden_pickaxe",
+    "textures": {
+        "top": "item/fortune",
+        "sticktop": "item/fortune"
+    }
+}

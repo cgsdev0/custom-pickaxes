@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/netherite_pickaxe",
+    "textures": {
+        "top": "item/silk_touch",
+        "sticktop": "item/silk_touch"
+    }
+}
